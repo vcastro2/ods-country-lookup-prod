@@ -1,0 +1,10 @@
+{
+    "production": false,
+    "user": "jianwangODS",
+    "password": "Linaword",
+    "host": "odsgis.clrxsczn8c6e.us-east-1.rds.amazonaws.com",
+    "database": "postgis_sample",
+    "dbPort": 5432,
+    "apiPort": 8080,
+    "apiPrefix": "api/"
+}
